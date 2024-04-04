@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title> Laboratoriya 2 </title>
+  </head>
+<br>
+
+  <body>
+    <h1>Laboratoriya 2 </h1>
+    <p> Emil Elekberov </p>
+  </body>
+<br>
+<a> href="https://github.com/emilal3kb3rov212/Emil_Laboratoriya" </a>
+<img src="https://www.antonio.eu/news/viper-f-16-fighting-falcon" alt="ŞƏKİL TAPILMADI!">
+
+</html>
+
